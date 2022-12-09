@@ -1,0 +1,16 @@
+junitproject22, framework'tur
+*** .idea => intelliJ'e aittir. Projenin spesifik bilgilerini içerir. Kesinlikle içeriğini değiştirmiyoruz
+*** src ==> source folder (klasörü)’dur. Src Class ve Method oluşturmak için kullaniriz
+bu Class ve Methodlar gerek developer framework gerekse testing framework için oluşturulabilir.
+*main => çoğunlukla developerlar kodlari geliştirmek için kullanir
+*test => çoğunlukla testerlar test scriptlerini yazmak için kullanir
+***pom.xml ==> Maven projedeki en önemli dosyadir.
+-- pom.xml’e dependencies, plugins, ve benzer configurations eklenir
+
+*** external libraries^ > import veya download ettiğimiz libraries/jar files/plugins/dependencies
+
+@Test: test case olusturmak icin "@Test" notation kullanilir. Test case olusturmak ve kosturmak(run) icin kulanilir
+@Before: her @Test anotationdan once calisir. On kosullari yada tekrar eden kosullari calistirmak icin kullanilir
+@After: her @Test anotationdan sonra calisir. Tekrar eden son kosullari run etmek(kosturmak) icin kullaniir
+
+* @Test, @Before, @BeforeClass, @After, @AfterClass, @Ignore
