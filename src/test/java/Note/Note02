@@ -1,0 +1,17 @@
+// Faker kutuphanesini kullanarak sahte data alabiliyorum
+// Seleniumda 8 locator var
+    id, name, className, tagName, linkText, partialLinkTExt, xpath, cssSelector
+
+ locater kullandiginizda hangi siralamayi takip edersiniz?
+    oncellikle ben id kullaniyorum cunku genel id biricik  (UNIQUE) olur. Id kullanilmamis ise, name kullaniyorum eger name biricik ise (UNIQUE).
+     name='bten-primary'. Eger class (veya diger butun attribute) biricik degilse bunlari kullanmiyorum. Eger bir element Link ise, ben linkText veya partialLinkText
+     kullanmayi tercih ederim. Bunlar uygun degilse Xpath tercih ederim. Elementler icin dinamik xpath kullanirim. Her hangi bir sayfada ve herhangi bir element icin xpath
+     yazabilirim. Xpath biraz da yavas olmasina ragmen xpath'i tercih ederiz, cunku daha guvenilirdir.
+
+     findElement(By.locator("value" veya "Text")--> Bize yalnizca bir tane webElement dondurur = ilk elementi dondurur
+        eger herhangi bi element bulamazsa, noSuchElementException "throws" eder
+
+     findElements(By.locator("value" veya "Text")-->bize coklu bir webelement, List<WebElement> olarak
+        eger herhangi bi element bulamazsa, bos bir List dondurur, exception throws etmez
+
+        //tag[ends-with(@attribute, 'Text")]
