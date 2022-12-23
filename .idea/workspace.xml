@@ -5,15 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad4cf0b1-c35e-4ca4-bfbf-1231458bee52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Note/Note02" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day03_C5_GoogleAramaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day03_C6_CheckBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day03_C7_JavaFaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day04_C10_HesapOlusturma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day04_C8_RadioButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day04_C9_DropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day05_C11_Alert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Note/Note03" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day06_C12_IFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day06_C13_WindowHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day06_C13_iFrameOrnek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day06_C14_Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day06_C15_ActionHomeWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day06_C15_Actions2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day07_C16_Actions3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day07_C17_Actions4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/utilities/TestBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/arcane/Day04_C10_HesapOlusturma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day04_C10_HesapOlusturma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +47,14 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/deneme/IdeaProjects/ApiTest2022/src/test/java/class01_get_http_request_method/Get11.java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/deneme/IdeaProjects/junitproject22&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.Day04_C10_HesapOlusturma.HesapOlusturma">
-    <configuration name="Day02_C3_LocatorsGiris" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Day07_C17_Actions4.scrollUpDown">
+    <configuration name="Day06_C15_ActionHomeWork" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junitproject22" />
       <extension name="coverage">
         <pattern>
@@ -60,13 +63,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.arcane" />
-      <option name="MAIN_CLASS_NAME" value="com.arcane.Day02_C3_LocatorsGiris" />
+      <option name="MAIN_CLASS_NAME" value="com.arcane.Day06_C15_ActionHomeWork" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day04_C10_HesapOlusturma" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day06_C15_ActionHomeWork.hoverOver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junitproject22" />
       <extension name="coverage">
         <pattern>
@@ -75,29 +78,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.arcane" />
-      <option name="MAIN_CLASS_NAME" value="com.arcane.Day04_C10_HesapOlusturma" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day04_C10_HesapOlusturma.HesapOlusturma" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junitproject22" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.arcane.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.arcane" />
-      <option name="MAIN_CLASS_NAME" value="com.arcane.Day04_C10_HesapOlusturma" />
-      <option name="METHOD_NAME" value="HesapOlusturma" />
+      <option name="MAIN_CLASS_NAME" value="com.arcane.Day06_C15_ActionHomeWork" />
+      <option name="METHOD_NAME" value="hoverOver" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day04_C8_RadioButton.radioButton" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day06_C15_Actions2.hoverOver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junitproject22" />
       <extension name="coverage">
         <pattern>
@@ -106,14 +94,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.arcane" />
-      <option name="MAIN_CLASS_NAME" value="com.arcane.Day04_C8_RadioButton" />
-      <option name="METHOD_NAME" value="radioButton" />
+      <option name="MAIN_CLASS_NAME" value="com.arcane.Day06_C15_Actions2" />
+      <option name="METHOD_NAME" value="hoverOver" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day05_C11_Alert.acceptAlert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day07_C16_Actions3.keysUpDown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junitproject22" />
       <extension name="coverage">
         <pattern>
@@ -122,8 +110,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.arcane" />
-      <option name="MAIN_CLASS_NAME" value="com.arcane.Day05_C11_Alert" />
-      <option name="METHOD_NAME" value="acceptAlert" />
+      <option name="MAIN_CLASS_NAME" value="com.arcane.Day07_C16_Actions3" />
+      <option name="METHOD_NAME" value="keysUpDown" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day07_C17_Actions4.scrollUpDown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitproject22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arcane.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.arcane" />
+      <option name="MAIN_CLASS_NAME" value="com.arcane.Day07_C17_Actions4" />
+      <option name="METHOD_NAME" value="scrollUpDown" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -131,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Day04_C10_HesapOlusturma.HesapOlusturma" />
-        <item itemvalue="JUnit.Day05_C11_Alert.acceptAlert" />
-        <item itemvalue="JUnit.Day04_C10_HesapOlusturma" />
-        <item itemvalue="JUnit.Day02_C3_LocatorsGiris" />
-        <item itemvalue="JUnit.Day04_C8_RadioButton.radioButton" />
+        <item itemvalue="JUnit.Day07_C17_Actions4.scrollUpDown" />
+        <item itemvalue="JUnit.Day07_C16_Actions3.keysUpDown" />
+        <item itemvalue="JUnit.Day06_C15_ActionHomeWork.hoverOver" />
+        <item itemvalue="JUnit.Day06_C15_ActionHomeWork" />
+        <item itemvalue="JUnit.Day06_C15_Actions2.hoverOver" />
       </list>
     </recent_temporary>
   </component>
