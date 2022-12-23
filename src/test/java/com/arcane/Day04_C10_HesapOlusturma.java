@@ -65,6 +65,7 @@ public class Day04_C10_HesapOlusturma {
 
 //        3. Signup/Login link'ine click edin
         driver.findElement(By.partialLinkText("Login")).click();
+        driver.manage().timeouts().implicitlyWait(70, TimeUnit.SECONDS);
 
 //        4. Isim ve email adresinizi girin ardindan  Signup button"una click edin
         driver.findElement(By.xpath("//input[@name='name']")).sendKeys(faker.name().firstName());
@@ -107,14 +108,14 @@ public class Day04_C10_HesapOlusturma {
 
 //    12. Sign up for our newsletter! click edin
         WebElement newsletter = driver.findElement(By.xpath("//*[@for='newsletter']"));
-        driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(50, TimeUnit.SECONDS);
         if (!newsletter.isSelected()){
             newsletter.click();
         }
 
 //    13. Receive special offers from our partners! click edin
         WebElement offers = driver.findElement(By.xpath("//*[@for='optin']"));
-        driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(50, TimeUnit.SECONDS);
         if (!offers.isSelected()){
             offers.click();
         }
@@ -153,6 +154,7 @@ public class Day04_C10_HesapOlusturma {
 //        23. Create Account'u Click edin
     //   driver.findElement(By.xpath("//button[@data-qa='create-account']")).submit();
         driver.findElement(By.xpath("(//button[@type='submit'])[1]")).submit();
+        driver.manage().timeouts().implicitlyWait(50, TimeUnit.SECONDS);
 
 //        24. Ardindan MY ACCOUNT'un sayfada bulundugunuzu verifey edin
         driver.findElement(By.linkText("Continue")).click();
