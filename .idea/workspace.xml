@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad4cf0b1-c35e-4ca4-bfbf-1231458bee52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/tests/Day07_C19_synchronization1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/tests/Day07_C20_synchronization2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/tests/Day08_C21_FileExistTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/tests/Day08_C22_FileUploadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/tests/Day08_C23_FileDownloadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/tests/Day08_C24_Authentication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/tests/Day08_C25_Cookies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/tests/Day08_C26_JavaScript_Executor.java" afterDir="false" />
+    <list default="true" id="ad4cf0b1-c35e-4ca4-bfbf-1231458bee52" name="Changes" comment="actionts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/arcane/Day06_C15_ActionHomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day06_C15_ActionHomeWork.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/arcane/Day07_C16_Actions3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day07_C16_Actions3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/arcane/Day07_C17_Actions4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day07_C17_Actions4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/arcane/tests/Day07_C18_TestBaseDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/arcane/tests/Day07_C18_TestBaseDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/arcane/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/arcane/utilities/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,6 +141,28 @@
       <option name="presentableId" value="Default" />
       <updated>1670569780572</updated>
     </task>
+    <task id="LOCAL-00001" summary="actionts">
+      <created>1671997429835</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671997429835</updated>
+    </task>
+    <task id="LOCAL-00002" summary="actionts">
+      <created>1671997443164</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671997443164</updated>
+    </task>
+    <task id="LOCAL-00003" summary="actionts">
+      <created>1671997449719</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671997449719</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,5 +175,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="actionts" />
+    <option name="LAST_COMMIT_MESSAGE" value="actionts" />
   </component>
 </project>
