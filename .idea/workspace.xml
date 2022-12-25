@@ -4,20 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad4cf0b1-c35e-4ca4-bfbf-1231458bee52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Note/Note03" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day06_C12_IFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day06_C13_WindowHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day06_C13_iFrameOrnek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day06_C14_Actions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day06_C15_ActionHomeWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day06_C15_Actions2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day07_C16_Actions3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day07_C17_Actions4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/arcane/utilities/TestBase.java" afterDir="false" />
+<<<<<<< HEAD
+    <list default="true" id="ad4cf0b1-c35e-4ca4-bfbf-1231458bee52" name="Changes" comment="homework" />
+=======
+    <list default="true" id="ad4cf0b1-c35e-4ca4-bfbf-1231458bee52" name="Changes" comment="actionts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/arcane/Day04_C10_HesapOlusturma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/arcane/Day04_C10_HesapOlusturma.java" afterDir="false" />
     </list>
+>>>>>>> 2054ec8fc2d9207a5462318273d3249558ccb39e
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,22 +46,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.Day07_C17_Actions4.scrollUpDown">
-    <configuration name="Day06_C15_ActionHomeWork" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junitproject22" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.arcane.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.arcane" />
-      <option name="MAIN_CLASS_NAME" value="com.arcane.Day06_C15_ActionHomeWork" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Day06_C15_ActionHomeWork.hoverOver">
     <configuration name="Day06_C15_ActionHomeWork.hoverOver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junitproject22" />
       <extension name="coverage">
@@ -85,49 +63,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day06_C15_Actions2.hoverOver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day07_C20_synchronization2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junitproject22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.arcane.*" />
+          <option name="PATTERN" value="com.arcane.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.arcane" />
-      <option name="MAIN_CLASS_NAME" value="com.arcane.Day06_C15_Actions2" />
-      <option name="METHOD_NAME" value="hoverOver" />
+      <option name="PACKAGE_NAME" value="com.arcane.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.arcane.tests.Day07_C20_synchronization2" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day07_C20_synchronization2.isEnabled" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitproject22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arcane.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.arcane.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.arcane.tests.Day07_C20_synchronization2" />
+      <option name="METHOD_NAME" value="isEnabled" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day07_C16_Actions3.keysUpDown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day08_C25_Cookies.handleCookies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junitproject22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.arcane.*" />
+          <option name="PATTERN" value="com.arcane.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.arcane" />
-      <option name="MAIN_CLASS_NAME" value="com.arcane.Day07_C16_Actions3" />
-      <option name="METHOD_NAME" value="keysUpDown" />
+      <option name="PACKAGE_NAME" value="com.arcane.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.arcane.tests.Day08_C25_Cookies" />
+      <option name="METHOD_NAME" value="handleCookies" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day07_C17_Actions4.scrollUpDown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day08_C26_JavaScript_Executor.scrollIntoView" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junitproject22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.arcane.*" />
+          <option name="PATTERN" value="com.arcane.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.arcane" />
-      <option name="MAIN_CLASS_NAME" value="com.arcane.Day07_C17_Actions4" />
-      <option name="METHOD_NAME" value="scrollUpDown" />
+      <option name="PACKAGE_NAME" value="com.arcane.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.arcane.tests.Day08_C26_JavaScript_Executor" />
+      <option name="METHOD_NAME" value="scrollIntoView" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -135,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Day07_C17_Actions4.scrollUpDown" />
-        <item itemvalue="JUnit.Day07_C16_Actions3.keysUpDown" />
         <item itemvalue="JUnit.Day06_C15_ActionHomeWork.hoverOver" />
-        <item itemvalue="JUnit.Day06_C15_ActionHomeWork" />
-        <item itemvalue="JUnit.Day06_C15_Actions2.hoverOver" />
+        <item itemvalue="JUnit.Day07_C20_synchronization2" />
+        <item itemvalue="JUnit.Day07_C20_synchronization2.isEnabled" />
+        <item itemvalue="JUnit.Day08_C26_JavaScript_Executor.scrollIntoView" />
+        <item itemvalue="JUnit.Day08_C25_Cookies.handleCookies" />
       </list>
     </recent_temporary>
   </component>
@@ -152,6 +145,39 @@
       <option name="presentableId" value="Default" />
       <updated>1670569780572</updated>
     </task>
+    <task id="LOCAL-00001" summary="actionts">
+      <created>1671997429835</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671997429835</updated>
+    </task>
+    <task id="LOCAL-00002" summary="actionts">
+      <created>1671997443164</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671997443164</updated>
+    </task>
+    <task id="LOCAL-00003" summary="actionts">
+      <created>1671997449719</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671997449719</updated>
+    </task>
+<<<<<<< HEAD
+    <task id="LOCAL-00004" summary="homework">
+      <created>1671998260730</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671998260730</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+=======
+    <option name="localTasksCounter" value="4" />
+>>>>>>> 2054ec8fc2d9207a5462318273d3249558ccb39e
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,5 +190,14 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="actionts" />
+<<<<<<< HEAD
+    <MESSAGE value="homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework" />
+=======
+    <option name="LAST_COMMIT_MESSAGE" value="actionts" />
+>>>>>>> 2054ec8fc2d9207a5462318273d3249558ccb39e
   </component>
 </project>

@@ -50,7 +50,6 @@ public class Day07_C16_Actions3  extends TestBase {
                 sendKeys(" 14 cok pahali" + Keys.ENTER).
                 build(). // build() opsiyoneldir, perform() u daha guclu yapar , build olmdanda perform calisiri
                 perform();
-
     }
 //    @After
 //    public void tearDown(){
