@@ -21,12 +21,10 @@ public abstract class TestBase {
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
         driver.manage().timeouts().pageLoadTimeout(10,TimeUnit.SECONDS);
         driver.manage().window().maximize();
-
     }
-
-    @After
-    public void tearDown(){
-        //close method
-        driver.close();
-    }
+//    @After
+//    public void tearDown(){
+//        //close method
+//        driver.close();
+//    }
 }
