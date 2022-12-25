@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="ad4cf0b1-c35e-4ca4-bfbf-1231458bee52" name="Changes" comment="homework" />
+=======
+    <list default="true" id="ad4cf0b1-c35e-4ca4-bfbf-1231458bee52" name="Changes" comment="actionts">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> 2054ec8fc2d9207a5462318273d3249558ccb39e
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,6 +166,7 @@
       <option name="project" value="LOCAL" />
       <updated>1671997449719</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00004" summary="homework">
       <created>1671998260730</created>
       <option name="number" value="00004" />
@@ -168,6 +175,9 @@
       <updated>1671998260730</updated>
     </task>
     <option name="localTasksCounter" value="5" />
+=======
+    <option name="localTasksCounter" value="4" />
+>>>>>>> 2054ec8fc2d9207a5462318273d3249558ccb39e
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,7 +193,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="actionts" />
+<<<<<<< HEAD
     <MESSAGE value="homework" />
     <option name="LAST_COMMIT_MESSAGE" value="homework" />
+=======
+    <option name="LAST_COMMIT_MESSAGE" value="actionts" />
+>>>>>>> 2054ec8fc2d9207a5462318273d3249558ccb39e
   </component>
 </project>
