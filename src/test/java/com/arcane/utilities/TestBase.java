@@ -22,9 +22,9 @@ public abstract class TestBase {
         driver.manage().timeouts().pageLoadTimeout(10,TimeUnit.SECONDS);
         driver.manage().window().maximize();
     }
-//    @After
-//    public void tearDown(){
-//        //close method
-//        driver.close();
-//    }
+    @After
+    public void tearDown(){
+        //close method
+        driver.close();
+    }
 }
